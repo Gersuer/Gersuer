@@ -1,3 +1,11 @@
+<ul>  
+  <li>🤙 E aí, Meu nome é Gersuer Henrique, mas pode me chamar de Henrique;</li>
+  <li>📘 Estou aprendendo HTML, CSS e Javascrypt;</li>
+  <li>📧 Email: gersuerhenrique@hotmail.com;</li>
+  <li>⚔️ Não jogo de Mago no Dark Souls;</li>
+  <li>🍲 Amante de cuscuz.</li>
+</ul>
+
 <div>
   <a href="https://github.com/Gersuer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gersuer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
