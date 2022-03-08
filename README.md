@@ -3,6 +3,7 @@
   <li>📘 Estou aprendendo HTML, CSS e Javascrypt;</li>
   <li>📧 Email: gersuerhenrique@hotmail.com;</li>
   <li>⚔️ Não jogo de Mago no Dark Souls;</li>
+  <li>🎓 Eletrotécnico;</li>
   <li>🍲 Amante de cuscuz.</li>
 </ul>
 
