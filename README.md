@@ -1,8 +1,8 @@
 <ul>  
-  <li>🤙 E aí, Meu nome é Gersuer Henrique, mas pode me chamar de Henrique (é mais fácil =D);</li>
-  <li>📘 Estou aprendendo HTML, CSS e Javascrypt;</li>
+  <li>🤙 E aí, Meu nome é Gersuer Henrique, mas pode me chamar de Henrique;</li>
+  <li>📘 Estou em constante aprendizado com a programação;</li>
   <li>📧 Email: gersuerhenrique@hotmail.com;</li>
-  <li>⚔️ Não jogo de Mago no Dark Souls;</li>
+  <li>⚔️ Não jogo de Mago no Elden Ring;</li>
   <li>🎓 Eletrotécnico;</li>
   <li>🍲 Amante de cuscuz.</li>
 </ul>
