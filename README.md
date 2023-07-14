@@ -24,6 +24,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+
 </div>
  
  <br>
