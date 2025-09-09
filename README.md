@@ -1,7 +1,7 @@
 <ul>  
   <li>🤙 E aí, Meu nome é Gersuer Henrique, mas pode me chamar de Henrique;</li>
   <li>💻 Estou em constante aprendizado com a programação;</li>
-  <li>📚 Estudante de Tecnologia em Sistemas para Internet - IFRN - 50%</li>
+  <li>📚 Estudante de Tecnologia em Sistemas para Internet - IFRN - 70%</li>
   <li>📧 Email: gersuerhenrique@hotmail.com;</li>
   <li>⚔️ Não jogo de Mago no Elden Ring;</li>
   <li>🎓 Eletrotécnico;</li>
